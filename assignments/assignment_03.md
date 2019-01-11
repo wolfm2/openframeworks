@@ -1,16 +1,27 @@
 ### Due: Sunday @ 12pm - Points: 5
 ### Assignment
-Submit .md of design for 3 projects
-Answer following questions:
-x
-y
-z
-Start assembling the shapes you will use in your story 
-use primitives to draw all active and inactive elements you will use.
-Show each for 2 sec
+In a new directory:
+
+Write a Readme.md containing short concept descriptions and drawings of potential directions for your three projects.
+
+The drawings should describe any movement or interaction in the program.
+
+## For each project answer following:
+
+Who is the user?
+
+What do you want them to experience?
+
+How will your translation achieve this?
+
+
+Create an new project which displays 4 active or inactive elements you might use in your story using basic shape primitives.
+
+In setup() set your framerate to 60 fps
+
+Show each drawing for 2 seconds in a slideshow using ofGetFrameNum and the c++ modulo operator
+
+**Include a static and animated screenshot in your .md for all projects from here on.**
+
 Submit the url of the dir to canvas
 
-## Readings
-OF timing
-Dt arty
-primitive movement & geometry

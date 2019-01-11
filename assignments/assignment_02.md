@@ -6,7 +6,7 @@ Create a repo called "openframeworks"
 
 Clone the repo to your computer.
 
-create a directory in the repository called  "Assignment_2"
+Create a directory in the repository called  "Assignment_2"
 
 Compile and run the example in ["Testing Your Setup"](https://openframeworks.cc/setup/xcode/)
 
@@ -16,11 +16,11 @@ Delete ALL contents of the directory you just copied except the contents of src 
 
 NOTE:  There should be nothing inside of bin except the directory data
 
-Create an md file with the program name as a header using "#"
+Create a README.md file at the root of Assignment_2 with the program name as a header using "#"
 
 Create three subheaders with "##" named C++, Description and Screenshots respectively
 
-Embed a screenshot of your finished c++ module screen
+Embed a screenshot of your finished c++ module status
 
 Add a short description 
 
@@ -30,8 +30,7 @@ Commit and push the contents to git
 
 Submit the url of the github dir to canvas
 
-### Information
-Github Repositories and Openframeworks Projects
+### Setting up Github Repositories
 
 [Make a github account](http://github.com)
 
@@ -62,13 +61,13 @@ obj
 *Debug.app
 ```
 
-Commit and push the file to the repository
+Add, commit and push the file to the repository
 
 
 ## Using GIT in an OSX or Linux terminal:
 
 ```
-	1. copy src and bin/data of any project to the repository
+  1. copy src and bin/data of any project to the repository
   2. cd YourNewProject		: Type "cd ", drop your new project folder in the terminal, and hit enter.
   3. git add .			: Tells git to track all project files (Repeat steps 1,2 if you add new files)
   4. git commit -am "Message"	: Tells git to create a snapshot of the project.  Use a descriptive message!

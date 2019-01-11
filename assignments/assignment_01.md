@@ -6,6 +6,7 @@ Download openframeworks on your laptop and set up your development environment. 
 
 Complete modules 1-3
 
+Consider directions for your three projects.
 
-Upload a screenshot of the modules completion page which displays your name and create a text document on Google Drive.  The text document should contain your github username at the top and 3 short paragraphs detailing preliminary project concept directions.
+Upload a screenshot of the modules completion page which displays your name and create a text document on Google Drive.  The text document should contain your github username at the top, and the embedded screenshot.
 
