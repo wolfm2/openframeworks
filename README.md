@@ -1,12 +1,14 @@
 # openframeworks
-Openframeworks class calendar, examples, and content
+Openframeworks class agenda, examples, and content
 
 ## Reading Groups
 In groups of 3-4 you will be responsible for a 20min in-class summation of the readings for the week.  Your group should distribute documentation (themes, examples) and have illustrative activities.
 
 ## Projects
 [Project 1](assignments/project_01.md)
+
 [Project 2](assignments/project_02.md)
+
 [Project 3](assignments/project_03.md)
 
 ## Themes by Week
