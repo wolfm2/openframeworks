@@ -14,7 +14,23 @@ In groups of 3-4 you will be responsible for a 20min in-class summation of the r
 ## Themes by Week
 ### Week 1: Setup and C++ intro
 [Weekly Assignment](assignments/assignment_01.md)
+### Create an account:
+
+[OpenFrameworks Forums](https://forum.openframeworks.cc/)
+
+[StackOverflow Forums](https://stackoverflow.com/)
+
 ### Read
+"c++ tutorial" PDF (up to and including "control structures" in the shared Google Drive folder. 
+
+[Openframeworks Install](https://openframeworks.cc/download/)
+
+[OSX Terminal](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+
+[OSX XCode](https://eecs183.org/docs/getting_started_with_xcode/)
+
+[Openframeworks API](http://openframeworks.cc/documentation/)
+
 
 ### Week 2: C++, Github Portfolio
 [Weekly Assignment](assignments/assignment_02.md)
