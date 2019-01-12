@@ -43,11 +43,14 @@ In groups of 3-4 you will be responsible for a 20min in-class summation of the r
 
 
 ### Week 3: Drawing Shapes
+C++ In-Class Test
+
 [Weekly Assignment](assignments/assignment_03.md)
+
 ### Read
 [Creating an oFx project](http://openframeworks.cc/learning/01_basics/create_a_new_project/)
 
-Generating a New Project at the [openframeworks site](https://openframeworks.cc/setup/xcode/)
+[Read section "Generating a New Project"](https://openframeworks.cc/setup/xcode/)
 
 [C++ Language Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html)
 
@@ -57,7 +60,6 @@ Generating a New Project at the [openframeworks site](https://openframeworks.cc/
 
 [ofGetFrameNum](https://openframeworks.cc//documentation/application/ofAppRunner/#!show_ofGetFrameNum)
 
-C++ In-Class Test
 ### Week 4: oF File structure, movement
 [Weekly Assignment](assignments/assignment_04.md)
 ### Read
