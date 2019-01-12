@@ -1,7 +1,6 @@
-work on draft for assg two.
+### Due: Sunday @ 12pm - Points: Factored as part of the final grade
+### Assignment
+
+Refine and submit your current iteration of project 1.
 
 
-Reading
-game creation
-
-collision and easing

@@ -4,6 +4,24 @@ Openframeworks class agenda, examples, and content
 ## Reading Groups
 In groups of 3-4 you will be responsible for a 20min in-class summation of the readings for the week.  Your group should distribute documentation (themes, examples) and have illustrative activities.
 
+## Grading
+
+ 55pts - Weekly Assignments 11x5pts
+
+ 45pts - Projects 3x15pts
+
+100pts - Total
+
+## Late Work
+
+Up to 24hrs = Max Score 75%
+
+Up to 48hrs = Max Score 50%
+
+Beyond 48hrs = Max Score 0%
+
+Note:  Many weeks will rely on the code submitted from the previous week.  Failing to submit work for one week will therefore have the potential to increase the work for following submissions. 
+
 ## Projects
 [Project 1](assignments/project_01.md)
 
@@ -47,7 +65,7 @@ Grading Standards
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-### Week 3: Drawing Shapes
+### Week 3: Colors, Alpha, Drawing Shapes & Random
 C++ In-Class Test
 
 [Weekly Assignment](assignments/assignment_03.md)
@@ -67,7 +85,7 @@ C++ In-Class Test
 
 Read intro and "Single Rectangle Brush: Using the Mouse" in the [book](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
 
-### Week 4: oF File structure, movement
+### Week 4: oF File structure, movement, vectors, easing
 [Weekly Assignment](assignments/assignment_04.md)
 ### Read
 Read "Single Rectangle Brush: Using the Mouse"  [here](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
@@ -83,11 +101,11 @@ Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/
 
 sound in stories
 
-### Week 6: Local Interactions
+### Week 6: Local Interactions & fbo
 [Weekly Assignment](assignments/assignment_06.md)
 ### Read
 
-### Week 7: UI
+### Week 7: UI & oFx Matrix
 [Weekly Assignment](assignments/assignment_07.md)
 ### Read / Watch
 From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
@@ -104,7 +122,9 @@ Review/make/run "guiExample" in examples folder
 [Weekly Assignment](assignments/assignment_08.md)
 ### Read
 [DarkSky Forecast Requests](https://darksky.net/dev/docs#forecast-request)
+
 [JSON Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+
 Readings 
 nytimes fire
 dataisbeautiful
@@ -113,28 +133,32 @@ dataisbeautiful
 [Weekly Assignment](assignments/assignment_09.md)
 ### Read
 
-### Week 10: Crit - Project 2
+### Week 10: Recursion & Collisions
 [Weekly Assignment](assignments/assignment_10.md)
 ### Read
+[oFx Games](http://codeliberation.org/CLF-slides/Classes_and_Workshops/CPlusPlus/Lecture1.pdf)
 
-### Week 11: Easing & Collisions
+### Week 11: Crit - Project 2
 [Weekly Assignment](assignments/assignment_11.md)
 ### Read
 
-### Week 12: Firmata
+[DropBlocs Gameplay](https://vimeo.com/8571460)
+
+### Week 12: Particle Systems
 [Weekly Assignment](assignments/assignment_12.md)
 ### Read
-https://openframeworks.cc/ofBook/chapters/hardware.html
+[Connecting to Arduino](https://openframeworks.cc/ofBook/chapters/hardware.html)
 
 ### Week 13: Lab - Project 3
 [Weekly Assignment](assignments/assignment_13.md)
-### Read
 
 ### Week 14: Crit - Project 3
 [Weekly Assignment](assignments/assignment_14.md)
-### Read
 
 ### Week 15: Reflection
-[Weekly Assignment](assignments/assignment_15.md)
-### Read
+In class process deconstruction talks
 
+TODO:
+vectors
+matrix
+fbo

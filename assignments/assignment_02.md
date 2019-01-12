@@ -26,6 +26,8 @@ Add a short description
 
 Add a single static screenshot and either a 5 second animated gif or an embedded youtube video of the running program
 
+In the root of the github tree create a README.md with a short bio and a picture.
+
 Commit and push the contents to git
 
 Submit the url of the github dir to canvas
