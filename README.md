@@ -60,13 +60,23 @@ C++ In-Class Test
 
 [ofGetFrameNum](https://openframeworks.cc//documentation/application/ofAppRunner/#!show_ofGetFrameNum)
 
+Read intro and "Single Rectangle Brush: Using the Mouse" in the [book](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
+
 ### Week 4: oF File structure, movement
 [Weekly Assignment](assignments/assignment_04.md)
 ### Read
+Read "Single Rectangle Brush: Using the Mouse"  [here](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
+
+Read until "Classes" [here](https://openframeworks.cc/ofBook/chapters/how_of_works.html)
+
+Up to and including "Linear movement" [here](https://openframeworks.cc/ofBook/chapters/animation.html)
 
 ### Week 5: Sound - Lab - Project 1
 [Weekly Assignment](assignments/assignment_05.md)
 ### Read
+Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/chapters/sound.html)
+
+sound in stories
 
 ### Week 6: UI
 [Weekly Assignment](assignments/assignment_06.md)
