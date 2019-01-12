@@ -13,6 +13,11 @@ In groups of 3-4 you will be responsible for a 20min in-class summation of the r
 
 ## Themes by Week
 ### Week 1: Setup and C++ intro
+Syllabus Review
+
+Class Requirements
+
+Grading Standards
 [Weekly Assignment](assignments/assignment_01.md)
 ### Create an account:
 
@@ -78,17 +83,31 @@ Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/
 
 sound in stories
 
-### Week 6: UI
+### Week 6: Local Interactions
 [Weekly Assignment](assignments/assignment_06.md)
 ### Read
 
-### Week 7: External Events
+### Week 7: UI
 [Weekly Assignment](assignments/assignment_07.md)
-### Read
+### Read / Watch
+From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
+* 020 ofxGui & shapes
+* 021 ofxGui & sound
 
-### Week 8: Local Interactions
-[Weekly Assignment](assignments/assignment_08.md)
+Review/make/run "guiExample" in examples folder
+
+(GUI sliders)[https://openframeworks.cc/learning/01_basics/how_to_create_slider/]
+
+(Slider setup method)[https://openframeworks.cc//documentation/ofxGui/ofxSlider/#!show_setup]
+
+### Week 8: External Events
+[Weekly Assignment](assignments/assignment_06.md)
 ### Read
+[DarkSky Forecast Requests](https://darksky.net/dev/docs#forecast-request)
+(JSON Overview)[https://www.digitalocean.com/community/tutorials/an-introduction-to-json]
+Readings 
+nytimes fire
+dataisbeautiful
 
 ### Week 9: Crit - Project 1, Lab - Project 2
 [Weekly Assignment](assignments/assignment_09.md)
@@ -105,6 +124,7 @@ sound in stories
 ### Week 12: Firmata
 [Weekly Assignment](assignments/assignment_12.md)
 ### Read
+https://openframeworks.cc/ofBook/chapters/hardware.html
 
 ### Week 13: Lab - Project 3
 [Weekly Assignment](assignments/assignment_13.md)
