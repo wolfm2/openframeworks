@@ -96,15 +96,15 @@ From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv2
 
 Review/make/run "guiExample" in examples folder
 
-(GUI sliders)[https://openframeworks.cc/learning/01_basics/how_to_create_slider/]
+[GUI sliders](https://openframeworks.cc/learning/01_basics/how_to_create_slider/)
 
-(Slider setup method)[https://openframeworks.cc//documentation/ofxGui/ofxSlider/#!show_setup]
+[Slider setup method](https://openframeworks.cc//documentation/ofxGui/ofxSlider/#!show_setup)
 
 ### Week 8: External Events
-[Weekly Assignment](assignments/assignment_06.md)
+[Weekly Assignment](assignments/assignment_08.md)
 ### Read
 [DarkSky Forecast Requests](https://darksky.net/dev/docs#forecast-request)
-(JSON Overview)[https://www.digitalocean.com/community/tutorials/an-introduction-to-json]
+[JSON Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 Readings 
 nytimes fire
 dataisbeautiful
