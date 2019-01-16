@@ -111,11 +111,13 @@ Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/
 
 [Sound in Digital Art](https://news.artnet.com/art-world/12-sound-artists-changing-perception-art-587054)
 
-[Case Study 0](https://openframeworks.cc/ofBook/chapters/project_joel.html)
-
 ### Week 6: Local Interactions & fbo
 [Weekly Assignment](assignments/assignment_06.md)
-#### Read
+#### Read / Watch
+From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
+026 intro to ofFbo
+
+[Case Study 0](https://openframeworks.cc/ofBook/chapters/project_joel.html)
 
 ### Week 7: UI & oFx Matrix
 [Weekly Assignment](assignments/assignment_07.md)
@@ -123,6 +125,7 @@ Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/
 From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
 * 020 ofxGui & shapes
 * 021 ofxGui & sound
+* 036 rotating shapes
 
 Review/make/run "guiExample" in examples folder
 
@@ -137,13 +140,14 @@ Review/make/run "guiExample" in examples folder
 
 [JSON Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 
-Readings 
-nytimes fire
-dataisbeautiful
+[Data as Art](https://medium.com/mediography/concepts-in-generative-art-data-as-art-and-computational-aesthetics-d5503ea1c6be)
+
+[Drake Equation "Dashboard"](https://informationisbeautiful.net/visualizations/the-drake-equation/)
 
 ### Week 9: Crit - Project 1, Lab - Project 2
 [Weekly Assignment](assignments/assignment_09.md)
 #### Read
+[Programmed: Rules, Codes, and Choreographies in Art](http://museemagazine.com/features/2018/10/17/programmed-rules-codes-and-choreographies-in-art)
 
 ### Week 10: Recursion & Collisions
 [Weekly Assignment](assignments/assignment_10.md)
