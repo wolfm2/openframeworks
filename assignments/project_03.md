@@ -7,30 +7,26 @@ from	online sources). Focus on simple mechanics and interactions and how you can
 ## Examples
 
 Look on video sites for playthroughs of:
-Sushi Cat: Coherent visual/auditory experience
-Flappy Bird: Simple low interaction 
-PacMan: Low resource, simple color pallette
-Canabalt: Low concept excellent soundtrack
-Pinocchio: Interactive fiction https://www.youtube.com/watch?v=HRXHqFv365Y
+* Sushi Cat: Coherent visual/auditory experience
+* Flappy Bird: Simple low interaction 
+* PacMan: Low resource, simple color pallette
+* Canabalt: Low concept excellent soundtrack
+* Pinocchio: Interactive fiction https://www.youtube.com/watch?v=HRXHqFv365Y
 
-## Skills
-
-Ablity to translate concepts into concrete artifacts
-Understanding of what a Design Choice is and its importance
-Understanding of why you make such choices
-That you can research in a variety of ways
-Articulation of design tensions & touchpoints
-That you can triage your time, goals, and other resources
-  
 ## Requirements
 
 The visualization will include color, shapes, movement, images, sound, user interaction, matrix transforms
+
 A github link submitted to canvas with code, process assets, and the appropriate .md information
+
 An explanation of your process in the .md
 
 ## Grading
 
 Coding/asset completion
-Translation / Understandability
+
+Translation
+
 Organization of repository
+
 Documentation

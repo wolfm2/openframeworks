@@ -23,6 +23,15 @@ Beyond 48hrs = Max Score 0%
 Note:  Many weeks will rely on the code submitted from the previous week.  Failing to submit work for one week will therefore have the potential to increase the work for following submissions. 
 
 ## Projects
+During the semester there will be three larger engagements which will be iterated upon and due in the last week.  Unlike the weekly assignments which fit under the rubric of technical demonstrations, the end projects will require design oriented outcomes.  These are:
+
+* An ablity to translate concepts into concrete artifacts
+* Understanding of what a Design Choice is and its importance
+* Understanding of why you make such choices
+* That you can research in a variety of ways
+* Articulation of design tensions & touchpoints
+* That you can triage your time, goals, and other resources
+
 [Project 1](assignments/project_01.md)
 
 [Project 2](assignments/project_02.md)
@@ -38,7 +47,7 @@ Class Requirements
 Grading Standards
 
 [Weekly Assignment](assignments/assignment_01.md)
-### Create an account:
+#### Create an account:
 
 [OpenFrameworks Forums](https://forum.openframeworks.cc/)
 
