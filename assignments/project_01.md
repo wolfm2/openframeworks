@@ -6,7 +6,9 @@ code should be bespoke (no functionality copied from online sources). It is high
   
 ## Requirements
 
-Your story should include shapes, movement, sound, images
+Your story should include shapes (incl. polygons), movement, sound, images
+
+At least two "scenes" (You can scroll between scenes or draw a new one)
 
 A 5 minute experience
 

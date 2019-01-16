@@ -15,7 +15,7 @@ Look on video sites for playthroughs of:
 
 ## Requirements
 
-The visualization will include color, shapes, movement, images, sound, user interaction, matrix transforms
+The visualization will include color, shapes, movement, images, sound, user interaction, collisions, matrix transforms
 
 A github link submitted to canvas with code, process assets, and the appropriate .md information
 
