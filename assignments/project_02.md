@@ -1,10 +1,10 @@
 ### Assignment
 ## Due: Sunday May 12th @ 12pm - Points: 15
 
-	Your goal is to translate a JSON data source into an intelligible visual form.  All of the
+  Your goal is to translate a JSON data source into an intelligible visual form.  All of the
 code should be bespoke (no functionality copied from online sources). The deliverable is not required to be a dashboard with associated UI (as you might see on a mobile).  You are incouraged to think non-literally about the data source and and imagine an innovative or engaging experience that could be derived from the structure.
 
-	Since all projects will cover a domain of time, a slider for each variable is required for testing.
+  Since all projects will cover a domain of time, a slider for each variable is required for testing.
   
 ## Requirements
 
