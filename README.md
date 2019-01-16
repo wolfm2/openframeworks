@@ -43,7 +43,7 @@ Grading Standards
 
 [StackOverflow Forums](https://stackoverflow.com/)
 
-### Read
+#### Read
 "c++ tutorial" PDF (up to and including "control structures" in the shared Google Drive folder. 
 
 [Openframeworks Install](https://openframeworks.cc/download/)
@@ -55,7 +55,7 @@ Grading Standards
 
 ### Week 2: C++, Github Portfolio
 [Weekly Assignment](assignments/assignment_02.md)
-### Read
+#### Read
 [OSX Terminal](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
 [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -70,7 +70,7 @@ C++ In-Class Test
 
 [Weekly Assignment](assignments/assignment_03.md)
 
-### Read
+#### Read
 [Creating an oFx project](http://openframeworks.cc/learning/01_basics/create_a_new_project/)
 
 [Read section "Generating a New Project"](https://openframeworks.cc/setup/xcode/)
@@ -87,7 +87,7 @@ Read intro and "Single Rectangle Brush: Using the Mouse" in the [book](https://o
 
 ### Week 4: oF File structure, movement, vectors, easing
 [Weekly Assignment](assignments/assignment_04.md)
-### Read
+#### Read
 Read "Single Rectangle Brush: Using the Mouse"  [here](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
 
 Read until "Classes" [here](https://openframeworks.cc/ofBook/chapters/how_of_works.html)
@@ -96,18 +96,18 @@ Up to and including "Linear movement" [here](https://openframeworks.cc/ofBook/ch
 
 ### Week 5: Sound - Lab - Project 1
 [Weekly Assignment](assignments/assignment_05.md)
-### Read
+#### Read
 Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/chapters/sound.html)
 
 sound in stories
 
 ### Week 6: Local Interactions & fbo
 [Weekly Assignment](assignments/assignment_06.md)
-### Read
+#### Read
 
 ### Week 7: UI & oFx Matrix
 [Weekly Assignment](assignments/assignment_07.md)
-### Read / Watch
+#### Read / Watch
 From [openFrameworks tutorials:](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
 * 020 ofxGui & shapes
 * 021 ofxGui & sound
@@ -120,7 +120,7 @@ Review/make/run "guiExample" in examples folder
 
 ### Week 8: External Events
 [Weekly Assignment](assignments/assignment_08.md)
-### Read
+#### Read
 [DarkSky Forecast Requests](https://darksky.net/dev/docs#forecast-request)
 
 [JSON Overview](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
@@ -131,22 +131,22 @@ dataisbeautiful
 
 ### Week 9: Crit - Project 1, Lab - Project 2
 [Weekly Assignment](assignments/assignment_09.md)
-### Read
+#### Read
 
 ### Week 10: Recursion & Collisions
 [Weekly Assignment](assignments/assignment_10.md)
-### Read
+#### Read
 [oFx Games](http://codeliberation.org/CLF-slides/Classes_and_Workshops/CPlusPlus/Lecture1.pdf)
 
 ### Week 11: Crit - Project 2
 [Weekly Assignment](assignments/assignment_11.md)
-### Read
+#### Read
 
 [DropBlocs Gameplay](https://vimeo.com/8571460)
 
 ### Week 12: Particle Systems
 [Weekly Assignment](assignments/assignment_12.md)
-### Read
+#### Read
 [Connecting to Arduino](https://openframeworks.cc/ofBook/chapters/hardware.html)
 
 ### Week 13: Lab - Project 3
