@@ -20,5 +20,5 @@ Show each drawing for 2 seconds in a slideshow using ofGetFrameNum and the c++ m
 
 **Include a static and animated screenshot in your .md for all projects from here on.**
 
-Submit the url of the dir to canvas
+Submit the url of the github directory to canvas
 

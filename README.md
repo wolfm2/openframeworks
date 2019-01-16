@@ -57,7 +57,7 @@ Grading Standards
 
 [oFx C++ Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html)
 
-[Optional: Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X)
+[Optional Purchase: Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X)
 ### Week 2: C++, Github Portfolio
 [Weekly Assignment](assignments/assignment_02.md)
 #### Read
@@ -109,7 +109,9 @@ Up to and including "Linear movement" [here](https://openframeworks.cc/ofBook/ch
 #### Read
 Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/chapters/sound.html)
 
-sound in stories
+[Sound in Digital Art](https://news.artnet.com/art-world/12-sound-artists-changing-perception-art-587054)
+
+[Case Study 0](https://openframeworks.cc/ofBook/chapters/project_joel.html)
 
 ### Week 6: Local Interactions & fbo
 [Weekly Assignment](assignments/assignment_06.md)
@@ -151,6 +153,7 @@ dataisbeautiful
 ### Week 11: Crit - Project 2
 [Weekly Assignment](assignments/assignment_11.md)
 #### Read
+[Case Study 1](https://openframeworks.cc/ofBook/chapters/project_eva.html)
 
 [DropBlocs Gameplay](https://vimeo.com/8571460)
 

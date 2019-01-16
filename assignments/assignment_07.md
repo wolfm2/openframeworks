@@ -12,6 +12,18 @@ Create a UI with the following:
 * An ofxIntSlider shape movement (degree of emotion)
 * Appropriate labels
 
+Use translation, scaling, and rotation to add at least 3 new features to the existing emotions.
+
+Ex:
+
+Y rotation could make eyes squint/blink or eyebrows arch.
+
+Scaling could widen eyes in surprise or narrow them in distrust
+
+Translation could move pupils (or any other feature) around.
+
+
+
 ## Questions
 What are the first 4 arguments of the slider setup method?
 
