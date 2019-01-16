@@ -36,6 +36,7 @@ Syllabus Review
 Class Requirements
 
 Grading Standards
+
 [Weekly Assignment](assignments/assignment_01.md)
 ### Create an account:
 
@@ -52,7 +53,11 @@ Grading Standards
 
 [Openframeworks API](http://openframeworks.cc/documentation/)
 
+[A History of Computer Art](http://www.vam.ac.uk/content/articles/a/computer-art-history/)
 
+[oFx C++ Basics](https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html)
+
+[Optional: Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X)
 ### Week 2: C++, Github Portfolio
 [Weekly Assignment](assignments/assignment_02.md)
 #### Read
@@ -64,6 +69,11 @@ Grading Standards
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+"c++ tutorial" PDF (up to and including "object oriented programming" in the shared Google Drive folder.
+
+[Puppet Parade Video](https://vimeo.com/34824490)
+
+[University of Dayton’s Interactive Wall](https://vimeo.com/27500054)
 
 ### Week 3: Colors, Alpha, Drawing Shapes & Random
 C++ In-Class Test
@@ -83,7 +93,7 @@ C++ In-Class Test
 
 [ofGetFrameNum](https://openframeworks.cc//documentation/application/ofAppRunner/#!show_ofGetFrameNum)
 
-Read intro and "Single Rectangle Brush: Using the Mouse" in the [book](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
+Read intro and "Single Rectangle Brush: Using the Mouse"  [here](https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
 
 ### Week 4: oF File structure, movement, vectors, easing
 [Weekly Assignment](assignments/assignment_04.md)
@@ -94,7 +104,7 @@ Read until "Classes" [here](https://openframeworks.cc/ofBook/chapters/how_of_wor
 
 Up to and including "Linear movement" [here](https://openframeworks.cc/ofBook/chapters/animation.html)
 
-### Week 5: Sound - Lab - Project 1
+### Week 5: Polygons & Sound - Lab - Project 1
 [Weekly Assignment](assignments/assignment_05.md)
 #### Read
 Read "Getting Started With Sound Files" [here](https://openframeworks.cc/ofBook/chapters/sound.html)
@@ -158,7 +168,3 @@ dataisbeautiful
 ### Week 15: Reflection
 In class process deconstruction talks
 
-TODO:
-vectors
-matrix
-fbo

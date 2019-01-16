@@ -9,7 +9,7 @@ Write the code necessary to move it with the arrow keys or mouse *dragging*.
 
 Choose a second element that moves to a given x,y when the mouse button is *clicked*.
 
-## Starter Code
+#### Starter Code
 
 ```c
 #include "testApp.h"  
