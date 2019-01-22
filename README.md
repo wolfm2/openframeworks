@@ -1,5 +1,6 @@
 # openframeworks
 Openframeworks class agenda, examples, and content
+[Shared Folder](https://drive.google.com/drive/folders/1iOUHdFxvICXN4vOrG6CNoijATrlaiC7P?usp=sharing)
 
 ## Reading Groups
 In groups of 3-4 you will be responsible for a 20min in-class talk about a digital artist.  Your group should distribute documentation (themes, examples) and have illustrative activities.
