@@ -82,6 +82,8 @@ Grading Standards
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Examples of Professional README.md files](https://github.com/matiassingers/awesome-readme)
+
 "c++ tutorial" PDF (up to and including "object oriented programming" in the shared Google Drive folder.
 
 [Puppet Parade Video](https://vimeo.com/34824490)
