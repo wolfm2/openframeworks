@@ -1,5 +1,5 @@
 ### Assignment
-## Due: Sunday May 12th @ 12pm - Points: 15
+## Due: Sunday May 10th @ 12pm - Points: 15
 
   Your goal is to create a simple game.  All of the code should be bespoke (no functionality copied
 from	online sources). Focus on simple mechanics and interactions and how you can engage with a user through a coherent visual and auditory style including but not limited to character creation and setting.  You can optinally go for a typical score-based game or interactive story style experience.
