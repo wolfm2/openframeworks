@@ -8,7 +8,11 @@ Complete modules 1-3
 
 Consider directions for your three projects.
 
-Upload a screenshot of the modules completion page which displays your name and create a text document on Google Drive.  The text document should contain your github username at the top, and the embedded screenshot.
+Take a screenshot of the modules completion page which displays your name and create a text document on Google Drive.  The text document should contain your github username at the top, and the embedded screenshot.
+
+Share the document with "newschool.edu".
+
+Submit the document url to canvas.
 
 ## Information
 
