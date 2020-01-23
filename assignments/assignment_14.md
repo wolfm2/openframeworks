@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 45
+### Points: 45
 ### Assignment
 
 Refine and submit your final iterations of projects 1,2,3.

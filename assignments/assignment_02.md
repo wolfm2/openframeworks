@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 Finish modules 3-6 on SoloLearn. There will be a test next class.
 

@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 
 Assemble at least one scene from your story with a title in a font of your choice.

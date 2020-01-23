@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 
 Make a new project which draws only the object with a face from the last assignment.

@@ -42,7 +42,7 @@ During the semester there will be three larger engagements which will be iterate
 
 [Project 3](assignments/project_03.md)
 
-## Themes by Week  (All homework is due the following Tuesday by 12pm.)
+## Themes by Week  (Assignments are due the following Tuesday by 12pm.)
 ### Week 1: Setup and C++ intro
 Syllabus Review
 

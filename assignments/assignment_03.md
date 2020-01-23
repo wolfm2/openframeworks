@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 In a new directory:
 

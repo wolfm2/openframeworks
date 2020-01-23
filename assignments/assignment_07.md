@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 Create a new project using the code from the last emotion assignment.
 

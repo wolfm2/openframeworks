@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 Download openframeworks on your laptop and set up your development environment. (xcode or visual studio)
 

@@ -1,4 +1,4 @@
-### Due: Sunday @ 12pm - Points: 5
+### Points: 5
 ### Assignment
 
 Clone the [ofxJSON Addon](https://github.com/jeffcrouse/ofxJSON) and put it in the "addons" directory.
