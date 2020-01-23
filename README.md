@@ -3,8 +3,6 @@ Openframeworks class agenda, examples, and content
 
 [Shared Folder](https://drive.google.com/drive/folders/1iOUHdFxvICXN4vOrG6CNoijATrlaiC7P?usp=sharing)
 
-[Talk](assignments/talk.md)
-
 ## Grading
 
  55pts - Weekly Assignments 11x5pts
@@ -24,7 +22,10 @@ Beyond 48hrs = Max Score 0%
 Note:  Many weeks will rely on the code submitted from the previous week.  Failing to submit work for one week will therefore have the potential to increase the work for following submissions. 
 
 ## Reading Groups
+
 In groups of 3-4 you will be responsible for a 20min in-class talk about a digital artist.  Your group should distribute documentation (themes, examples) and have illustrative activities.
+
+[Talk](assignments/talk.md)
 
 ## Projects
 During the semester there will be three larger engagements which will be iterated upon and due in the last week.  Unlike the weekly assignments which fit under the rubric of technical demonstrations, the end projects will require design oriented outcomes.  These are:
